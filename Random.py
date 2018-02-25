@@ -1,3 +1,3 @@
 import random
-num = random.randint(0, 99)
+num = random.randint(1, 100)
 print(num)
