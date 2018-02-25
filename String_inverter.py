@@ -1,2 +1,2 @@
-x= (input("Inser a string: "))
+x= (input("Insert a string: "))
 print (x[::-1])
